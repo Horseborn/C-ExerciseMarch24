@@ -1,0 +1,14 @@
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\CSharpTutorialMarch24\CSharpTutorialMarch24\bin\Debug\net8.0\CSharpTutorialMarch24.exe
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\CSharpTutorialMarch24\CSharpTutorialMarch24\bin\Debug\net8.0\CSharpTutorialMarch24.deps.json
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\CSharpTutorialMarch24\CSharpTutorialMarch24\bin\Debug\net8.0\CSharpTutorialMarch24.runtimeconfig.json
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\CSharpTutorialMarch24\CSharpTutorialMarch24\bin\Debug\net8.0\CSharpTutorialMarch24.dll
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\CSharpTutorialMarch24\CSharpTutorialMarch24\bin\Debug\net8.0\CSharpTutorialMarch24.pdb
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\CSharpTutorialMarch24\CSharpTutorialMarch24\obj\Debug\net8.0\CSharpTutorialMarch24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\CSharpTutorialMarch24\CSharpTutorialMarch24\obj\Debug\net8.0\CSharpTutorialMarch24.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\CSharpTutorialMarch24\CSharpTutorialMarch24\obj\Debug\net8.0\CSharpTutorialMarch24.AssemblyInfo.cs
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\CSharpTutorialMarch24\CSharpTutorialMarch24\obj\Debug\net8.0\CSharpTutorialMarch24.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\CSharpTutorialMarch24\CSharpTutorialMarch24\obj\Debug\net8.0\CSharpTutorialMarch24.dll
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\CSharpTutorialMarch24\CSharpTutorialMarch24\obj\Debug\net8.0\refint\CSharpTutorialMarch24.dll
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\CSharpTutorialMarch24\CSharpTutorialMarch24\obj\Debug\net8.0\CSharpTutorialMarch24.pdb
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\CSharpTutorialMarch24\CSharpTutorialMarch24\obj\Debug\net8.0\CSharpTutorialMarch24.genruntimeconfig.cache
+C:\Users\sebas\Desktop\Gokstad Akademiet\Rider\CSharpTutorialMarch24\CSharpTutorialMarch24\obj\Debug\net8.0\ref\CSharpTutorialMarch24.dll
